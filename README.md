@@ -219,7 +219,7 @@
 
   <!-- 顶部导航 -->
   <div class="top-bar">
-   <img src="https://i.postimg.cc/9QK79jr3/image.png" alt="Mega888" style="width:120px; height:auto;">
+   <img src="https://i.postimg.cc/XNchtwCY/image-removebg-preview-290.png" alt="Mega888" style="width:120px; height:auto;">
     <h2 style="color:#ffd700; font-size:30px; text-align:center; margin:0; white-space:nowrap; position:absolute; top:40px; left:40%; transform:translateX(-50%);">
       GM96 Trusted Company in Malaysia | MEGA888 | 918KISS
     </h2>
